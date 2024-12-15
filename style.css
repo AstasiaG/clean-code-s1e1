@@ -23,6 +23,13 @@ body {
   }
 }
 
+h1 {
+  visibility: hidden;
+  padding: 0;
+  margin: 0;
+  height: 0;
+}
+
 .centered-main-page-element {
   display: block;
   width: 500px;
